@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
