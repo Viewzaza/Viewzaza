@@ -2,7 +2,9 @@
 I'm just a cute fox actually : Sunaookami Shiroko
 My name is View and I have been a KMUTNB-TGPS student now with EE Major 
 
-   <center>here is my Landguages and Tools for development.</center>
+   <div align="center">
+   here is my Landguages and Tools for development 
+   </div>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
