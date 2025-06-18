@@ -6,7 +6,7 @@ My name is View and I have been a KMUTNB-TGPS student now with EE Major
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,py,pytorch,raspberrypi,visualstudio,ae,anaconda,arduino,au,azure,debian,docker,git,githubactions,matlab)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,py,tensorflow,pytorch,raspberrypi,visualstudio,ae,anaconda,arduino,au,azure,debian,docker,git,githubactions,matlab)](https://skillicons.dev)
 
 </div>
 
