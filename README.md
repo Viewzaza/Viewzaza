@@ -17,14 +17,3 @@ My name is View and I have been a KMUTNB-TGPS student now with EE Major
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-
-name: Favorites anime and currently watching
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.anilist.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_anilist: yes
-  plugin_anilist_medias: anime
-  plugin_anilist_sections: favorites, watching
-  plugin_anilist_limit: 1
