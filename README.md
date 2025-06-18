@@ -4,7 +4,8 @@ My name is View and I have been a KMUTNB-TGPS student now with EE Major
 
 ##   <div align="center">here is my Landguages and Tools for development </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<div align="center">[![My Skills](https://skillicons.dev/icons?i=ae,html,css,anaconda,arduino,au,azure,c,cpp,debian,docker,git,githubactions,matlab,py,pytorch,raspberrypi,visualstudio)](https://skillicons.dev) </div>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viewzaza)
