@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viewzaza)
+
+name: Full-year calendar
+uses: Viewzaza
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
