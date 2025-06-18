@@ -4,7 +4,7 @@ My name is View and I have been a KMUTNB-TGPS student now with EE Major
 
 ##   <div align="center">here is my Landguages and Tools for development </div>
 
-<div align="center">[![My Skills](https://skillicons.dev/icons?i=ae,html,css,anaconda,arduino,au,azure,c,cpp,debian,docker,git,githubactions,matlab,py,pytorch,raspberrypi,visualstudio)](https://skillicons.dev) </div>
+<div align="center">[![My Skills](https://skillicons.dev/icons?i=ae,html,css,anaconda,arduino,au,azure,c,cpp,debian,docker,git,githubactions,matlab)](https://skillicons.dev) </div>
 
 
 
