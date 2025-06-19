@@ -18,4 +18,4 @@ My name is View and I have been a KMUTNB-TGPS student now with EE Major
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viewzaza)
