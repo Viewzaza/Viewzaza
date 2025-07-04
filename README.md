@@ -3,7 +3,7 @@ I'm just a cute doggy actually : "Sunaookami Shiroko, FUWAWA Abyssgard, Mococo A
                                  "砂狼・シロコ, フワワ・アビスガード, モココ・アビスガード"    めちゃくちゃかわいい～ーーー！！！
                                  
 
-My name is View and I have been a KMUTNB-TGPS student now with EE Major 
+My actual name is View and I have been a KMUTNB-TGPS student now with EE Major 
 
 ##   <div align="center">here is my Landguages and Tools for development </div>
 
