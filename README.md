@@ -1,5 +1,7 @@
 ## Hi there 👋
-I'm just a cute fox actually : Sunaookami Shiroko
+I'm just a cute doggy actually : "Sunaookami Shiroko, FUWAWA Abyssgard, Mococo Abyssgard"    are my oshi  
+                                 "砂狼・シロコ, フワワ・アビスガード, モココ・アビスガード"    めちゃくちゃかわいい～ーーー！！！
+                                 
 
 My name is View and I have been a KMUTNB-TGPS student now with EE Major 
 
