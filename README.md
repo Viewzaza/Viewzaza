@@ -1,6 +1,7 @@
 ## Hi there 👋
 I'm just a cute doggy actually : "Sunaookami Shiroko, FUWAWA Abyssgard, Mococo Abyssgard"    are my oshi  🩵🩷
-                      "砂狼・シロコ, フワワ・アビスガード, モココ・アビスガード"    めちゃくちゃかわいい～ーーー！！！
+
+"砂狼・シロコ, フワワ・アビスガード, モココ・アビスガード"    めちゃくちゃかわいい～ーーー！！！
                                  
 
 My actual name is View and I have been a KMUTNB-TGPS student now with EE Major 
