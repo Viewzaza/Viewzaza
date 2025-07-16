@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm just a cute doggy actually : "Sunaookami Shiroko, FUWAWA Abyssgard, Mococo Abyssgard"    are my oshi  
+I'm just a cute doggy actually : "Sunaookami Shiroko, FUWAWA Abyssgard, Mococo Abyssgard"    are my oshi  🩵🩷
                                  "砂狼・シロコ, フワワ・アビスガード, モココ・アビスガード"    めちゃくちゃかわいい～ーーー！！！
                                  
 
