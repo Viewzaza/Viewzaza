@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🩵🩷
 I'm just a cute doggy actually : "Sunaookami Shiroko, FUWAWA Abyssgard, Mococo Abyssgard"    are my kamioshi  🩵🩷
 
 "砂狼・シロコ, フワワ・アビスガード, モココ・アビスガード"    めちゃくちゃかわいい～ーーー！！！
